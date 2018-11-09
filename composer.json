@@ -1,0 +1,11 @@
+{
+  "name": "spryker-feature/development-integration",
+  "description": "Development & Integration [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/heartbeat-page": "^1.0.1"
+  }
+}
