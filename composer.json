@@ -7,11 +7,12 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-shop/heartbeat-page": "^1.0.2"
+    "spryker-shop/heartbeat-page": "^1.0.2",
+    "spryker/testify": "^3.11.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201902.x-dev"
+      "dev-master": "201906.x-dev"
     }
   }
 }
